@@ -1,0 +1,14 @@
+{
+    "dataflow": 2,
+    "format": 0,
+    "transpose": 0,
+    "minBlock": 2,
+    "cachesize": 4,
+    "memorybandwidth": 68,
+    "PEcnt": 32,
+    "srambank": 32,
+    "iscache": 0,
+    "cacheScheme": 0,
+    "baselinetest": 0,
+    "outputDir": "./output/"
+}
